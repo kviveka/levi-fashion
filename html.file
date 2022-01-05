@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="0">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="376" startPos="74" endPos="74" selMode="0" offset="0" wrapCount="1" lang="Shell" encoding="-1" userReadOnly="no" filename="C:\Users\DELL\.bash_profile" backupFilePath="C:\Users\DELL\AppData\Roaming\Notepad++\backup\.bash_profile@2022-01-05_095819" originalFileLastModifTimestamp="-1492338120" originalFileLastModifTimestampHigh="30933484" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="8388736" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
