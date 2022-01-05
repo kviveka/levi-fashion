@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-wreqwrk.,vnlsdfhgku
-sdn msfgkj
- ,msnbdgk
-,m./m.lsng
+m./m.lsng
 
 
 n.jnkjn
@@ -10,18 +6,15 @@ n.jnkjn
 jashdh
 kkslkd
 
-kjkjkjkj
-kskdsadkas
 
 
 
-
-asdasdasd
-
-
+<<<<<<< Updated upstream
 sadasd
 
 
 
 asdasdasd
 >>>>>>> 3f4d519 (file)
+=======
+>>>>>>> Stashed changes
