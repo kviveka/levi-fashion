@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 m./m.lsng
 
 
@@ -18,3 +19,7 @@ asdasdasd
 >>>>>>> 3f4d519 (file)
 =======
 >>>>>>> Stashed changes
+=======
+hello 
+iam person to learn git 
+>>>>>>> 4b2de40 (initial commit)
